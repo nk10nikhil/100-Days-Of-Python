@@ -7,7 +7,7 @@ elif first == 'left':
   print("Nice, you made it to the next level!")
   second = input("Your map shows that you need to get to Treasure Island, you can wait to board a ship or swim accross the sea, pick one.\nType Swim/Wait: ").lower()
   if second == "swim":
-    print("Unfortunately, you were eaten by a Great White Shark, try again.")
+    print("Unfortunately, you were eaten by a Big Great White Shark, try again.")
   elif second == "wait":
     print("Nice, you made it to the next level, you're pretty good at this!")
     print ("Welcome to:")
