@@ -1,4 +1,4 @@
-print("Welcome to the Python tip calculator!")
+print("Welcome to the tip calculator!")
 
 bill = float(input("What is the total bill amount?\n$:"))
 tip = int(input("How much tip would you like to give?\nPercent:"))
