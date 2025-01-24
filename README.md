@@ -2,6 +2,7 @@
 100 Days of Code Challenge in Python
 
 
+#
 # Day 1 - Working with Variables in Python to Manage Data
 ## Concepts Practised
 - Printing to the Console in Python
@@ -12,6 +13,7 @@
 - Variable Naming
 
 
+#
 # Day 2 - Understanding Data Types and How to Manipulate Strings
 ## Concepts Practised
 - Python Primitive Data Types
@@ -22,6 +24,7 @@
 ## Tip Calculator
 
 
+#
 # Day 3 - Control Flow and Logical Operators
 ## Concepts Practised
 - Control Flow with if / else and Conditional Operators
@@ -32,6 +35,7 @@
 ## Treasure Island
 
 
+#
 # Day 4 - Randomisation and Python Lists
 ## Concepts Practised
 - Random Module
@@ -40,6 +44,7 @@
 ## Rock Paper Scissors
 
 
+#
 # Day 5 - Python Loops
 ## Concepts Practised
 - Using the for loop with Python Lists
@@ -47,6 +52,7 @@
 ## Password Generator
 
 
+#
 # Day 6 - Python Functions & Karel
 ## Concepts Practised
 - Defining and Calling Python Functions
@@ -55,6 +61,7 @@
 ## Escaping the Maze
 
 
+#
 # Day 7 - Hangman
 ## Concepts Practised
 - How to break a Complex Problem down into a Flow Chart
@@ -64,6 +71,7 @@
 ## Hangman
 
 
+#
 # Day 8 - Function Parameters & Caesar Cipher
 ## Concepts Practised
 - Functions with Inputs
@@ -71,6 +79,7 @@
 ## Caesar Cipher
 
 
+#
 # Day 9 - Dictionaries, Nesting and the Secret Auction
 ## Concepts Practised
 - The Python Dictionary
@@ -78,6 +87,7 @@
 ## The Secret Auction Program
 
 
+#
 # Day 10 - Functions with Outputs
 ## Concepts Practised
 - Function with Outputs
@@ -89,12 +99,14 @@
 ## Calculator
 
 
+#
 # Day 11 - The Blackjack Capstone Project
 ## Concepts Practised
 - Refactoring and calling procedures
 ## Blackjack
 
 
+#
 # Day 12 - Scope & Number Guessing Game
 ## Concepts Practised
 - How to Modify a Global Variable
@@ -102,6 +114,7 @@
 ## The Number Guessing Game
 
 
+#
 # Day 13 - Debugging: How to Find and Fix Errors in your Code
 ## Concepts Practised
 - Describing the Problem
@@ -115,6 +128,7 @@
 - [Exercise 3] Debugging FizzBuzz
 
 
+#
 # Day 14 - Higher Lower Game Project
 ## Concepts Practised
 - Using Dictionary Data
@@ -123,12 +137,14 @@
 ## Higher Lower Game
 
 
+#
 # Day 15 - Local Development Environment Setup & the Coffee Machine
 ## Concepts Practised
 - Installing Python Locally
 ## Coffee Machine
 
 
+#
 # Day 16 - Object Oriented Programming (OOP)
 ## Concepts Practised
 - Classes and Objects
@@ -138,6 +154,7 @@
 ## OOP Coffee Machine
 
 
+#
 # Day 17 - The Quiz Project & The Benefits of OOP
 ## Concepts Practised
 - How to create a Class in Python
@@ -146,6 +163,7 @@
 ## Quiz Project
 
 
+#
 # Day 18 - Turtle & the Graphical User Interface (GUI)
 ## Concepts Practised
 - Understanding Turtle Graphics and How to use the Documentation
@@ -154,6 +172,7 @@
 ## The Hirst Painting Project
 
 
+#
 # Day 19 - Instances, State and Higher Order Functions
 ## Concepts Practised
 - Python Higher Order Functions & Event Listeners
@@ -162,6 +181,7 @@
 ## Turtle Race
 
 
+#
 # Day 20 - Build the Snake Game Part 1: Animation & Coordinates
 ## Concepts Practised
 - Screen Setup and Creating a Snake Body
@@ -171,6 +191,7 @@
 ## Snake Game Part 1
 
 
+#
 # Day 21 - Build the Snake Game Part 2: Inheritance & List Slicing
 ## Concepts Practised
 - Class Inheritance
@@ -178,6 +199,7 @@
 ## Snake Game Part 2
 
 
+#
 # Day 22 - Build Pong: The Famous Arcade Game
 ## Concepts Practised
 - Create a Paddle that responds to Key Presses
@@ -190,6 +212,7 @@
 ## Pong
 
 
+#
 # Day 23 - The Turtle Crossing Capstone Project
 ## Concepts Practised
 - Create a Turtle that responds to Key Presses
@@ -200,6 +223,7 @@
 ## Turtle Crossing
 
 
+#
 # Day 24 - Files, Directories and Paths
 ## Concepts Practised
 - How to Open, Read, and Write to Files using the "with" Keyword
@@ -209,6 +233,7 @@
 ## Mail Merge
 
 
+#
 # Day 25 - Working with CSV Data and the Pandas Library
 ## Concepts Practised
 - Reading CSV Data in Python
@@ -218,6 +243,7 @@
 ## U.S. States Game
 
 
+#
 # Day 26 - List Comprehension and the Nato Alphabet
 ## Concepts Practised
 - How to Create Lists using List Comprehension
@@ -226,6 +252,7 @@
 ## Nato Alphabet Project
 
 
+#
 # Day 27 - Tkinter, *args, **kwargs and Creating GUI Programs
 ## Concepts Practised
 - Creating Windows and Labels with Tkinter
@@ -238,6 +265,7 @@
 ## Miles to KM Converter
 
 
+#
 # Day 28 - Tkinter, Dynamic Typing and the Pomodoro GUI Application
 ## Concepts Practised
 - How to work with the Canvas Widget and Add Images to Tkinter
@@ -248,6 +276,7 @@
 ## Pomodoro Timer
 
 
+#
 # Day 29 - Building a Password Manager GUI App with Tkinter
 ## Concepts Practised
 - Working with Images and Setting up the Canvas
@@ -258,6 +287,7 @@
 ## Password Manager
 
 
+#
 # Day 30 - Errors, Exceptions and JSON Data: Improving the Password Manager
 ## Concepts Practised
 - Catching Exceptions: The try catch except finally Pattern
@@ -268,6 +298,7 @@
 ## Password Manager 2.0
 
 
+#
 # Day 31 - Flash Card App Capstone Project
 ## Concepts Practised
 - Create the User Interface (UI) with Tkinter
@@ -277,6 +308,7 @@
 ## Flash Card App
 
 
+#
 # Day 32 - Send Email (smtplib) & Manage Dates (datetime)
 ## Concepts Practised
 - How to Send Emails with Python using SMTP
@@ -284,6 +316,7 @@
 ## Automated Birthday Wisher
 
 
+#
 # Day 33 - API Endpoints & API Parameters - ISS Overhead Notifier
 ## Concepts Practised
 - API Endpoints and Making API Calls
@@ -292,6 +325,7 @@
 ## ISS Overhead Notifier
 
 
+#
 # Day 34 - API Practice - Creating a GUI Quiz App
 ## Concepts Practised
 - Unescaping HTML Entities
@@ -300,6 +334,7 @@
 ## GUI Quiz App
 
 
+#
 # Day 35 - Keys, Authentication & Environment Variables - Telegram Rain Notifier
 ## Concepts Practised
 - Using API Keys to Authenticate and Get the Weather from OpenWeatherMap
@@ -309,6 +344,7 @@
 ## Rain Notifier
 
 
+#
 # Day 36 - Stock Trading News Alert Project
 ## Concepts Practised
 - Using API to Check for Stock Price Movements
@@ -317,6 +353,7 @@
 ## Stock Trading News Alert
 
 
+#
 # Day 37 - Habit Tracking Project: API Post Requests & Headers
 ## Concepts Practised
 - HTTP Post Requests
@@ -326,6 +363,7 @@
 ## Habit Tracking
 
 
+#
 # Day 38 - Workout Tracking Using Google Sheets
 ## Concepts Practised
 - Get Exercise Stats with Natural Language Queries
@@ -335,6 +373,7 @@
 ## Workout Tracking
 
 
+#
 # Day 39 - Capstone Part 1: Flight Deal Finder
 ## Concepts Practised
 - OOP
@@ -344,6 +383,7 @@
 ## Flight Deal Finder
 
 
+#
 # Day 40 - Capstone Part 2: Flight Club
 ## Concepts Practised
 - OOP
@@ -353,6 +393,7 @@
 ## Flight Club
 
 
+#
 # Day 41 - Introduction to HTML
 ## Concepts Practised
 - The Anatomy of an HTML Tag
@@ -364,6 +405,7 @@
 ## Basic HTML Website
 
 
+#
 # Day 42 - Intermediate HTML
 ## Concepts Practised
 - HTML Tables
@@ -373,6 +415,7 @@
 ## Basic HTML Website
 
 
+#
 # Day 43 - Introduction to CSS
 ## Concepts Practised
 - Inline CSS
@@ -385,6 +428,7 @@
 ## HTML Website Using CSS
 
 
+#
 # Day 44 - Intermediate CSS
 ## Concepts Practised
 - HTML Divs
@@ -397,6 +441,7 @@
 ## HTML Website Using CSS
 
 
+#
 # Day 45 - Web Scraping with Beautiful Soup
 ## Concepts Practised
 - Parsing HTML and Making Soup
@@ -405,6 +450,7 @@
 ## Web Scraping - 100 Movies That You Must Watch
 
 
+#
 # Day 46 - Create a Spotify Playlist Using The Musical Time Machine
 ## Concepts Practised
 - Finding and Selecting Particular Elements with BeautifulSoup
@@ -414,6 +460,7 @@
 ## Music Time Machine
 
 
+#
 # Day 47 - Create an Automated Amazon Price Tracker
 ## Concepts Practised
 - Finding and Selecting Particular Elements with BeautifulSoup
@@ -421,6 +468,7 @@
 ## Amazon Price Tracker
 
 
+#
 # Day 48 - Selenium Webdriver Browser and Game Playing Bot
 ## Concepts Practised
 - Finding and Selecting Elements on a Website with Selenium
@@ -429,6 +477,7 @@
 ## Cookie Clicker Bot
 
 
+#
 # Day 49 - Automating Job Applications on LinkedIn
 ## Concepts Practised
 - Finding and Selecting Elements on a Website with Selenium
@@ -437,6 +486,7 @@
 ## Linkedin Job Application Bot
 
 
+#
 # Day 50 - Auto Tinder Swiping Bot
 ## Concepts Practised
 - Finding and Selecting Elements on a Website with Selenium
@@ -447,6 +497,7 @@
 ## Tinder Swiping Bot
 
 
+#
 # Day 51 - Internet Speed Twitter Complaint Bot
 ## Concepts Practised
 - Finding and Selecting Elements on a Website with Selenium
@@ -456,6 +507,7 @@
 ## Internet Speed Twitter Complaint Bot
 
 
+#
 # Day 52 - Instagram Follower Bot
 ## Concepts Practised
 - Finding and Selecting Elements on a Website with Selenium
@@ -464,6 +516,7 @@
 - OOP
 
 
+#
 # Day 53 - Web Scraping Capstone - Data Entry Job Automation
 ## Concepts Practised
 - Finding and Selecting Particular Elements with BeautifulSoup
@@ -475,6 +528,7 @@
 ## Data Entry Bot
 
 
+#
 # Day 54 - Introduction to Web Development with Flask
 ## Concepts Practised
 - Create a Web Server with Flask
@@ -486,6 +540,7 @@ Create a Python Decorator
 ## Python Decorator
 
 
+#
 # Day 55 - HTML & URL Parsing in Flask and the Higher Lower Game
 ## Concepts Practised
 - Flask URL Paths and the Flask Debugger
@@ -495,6 +550,7 @@ Create a Python Decorator
 ## Higher Lower Game
 
 
+#
 # Day 56 - Rendering HTML/Static Files and Using Website Templates
 ## Concepts Practised
 - Rendering HTML Files with Flask
@@ -503,6 +559,7 @@ Create a Python Decorator
 ## Name Card Website
 
 
+#
 # Day 57 - Templating with Jinja in Flask Applications
 ## Concepts Practised
 - Using Jinja to Produce Dynamic HTML Pages
@@ -512,6 +569,7 @@ Create a Python Decorator
 ## Blog Capstone Project Part 1 - Templating
 
 
+#
 # Day 58 - Web Foundation Boostrap
 ## Concepts Practised
 - Installing Bootstrap
@@ -530,6 +588,7 @@ Create a Python Decorator
 ## Bootstrap Website
 
 
+#
 # Day 59 - Blog Capstone Project Part 2 - Adding Styling
 ## Concepts Practised
 - Using Jinja to Produce Dynamic HTML Pages
@@ -539,6 +598,7 @@ Create a Python Decorator
 ## Blog Capstone Project Part 2 - Adding Styling
 
 
+#
 # Day 60 - Make POST Requests with Flask and HTML Forms
 ## Concepts Practised
 - Creating an HTML Form from Scratch
@@ -548,6 +608,7 @@ Create a Python Decorator
 ## Functional Contact Form
 
 
+#
 # Day 61 - Building Advanced Forms with Flask-WTForms
 ## Concepts Practised
 - Creating Forms with Flask-WTF
@@ -558,6 +619,7 @@ Create a Python Decorator
 ## Flask-WTForms
 
 
+#
 # Day 62 - Flask, WTForms, Bootstrap, and CSV - Coffee & Wifi Project
 ## Concepts Practised
 - Creating Forms with Flask-WTF
@@ -567,6 +629,7 @@ Create a Python Decorator
 ## Coffee & Wifi Project
 
 
+#
 # Day 63 - Databases and with SQLite and SQLAlchemy
 ## Concepts Practised
 - SQLite Databases
@@ -576,6 +639,7 @@ Create a Python Decorator
 ## Virtual Bookshelf
 
 
+#
 # Day 64 - My Top 10 Movies Website
 ## Concepts Practised
 - SQLite Databases
@@ -586,6 +650,7 @@ Create a Python Decorator
 ## My Top 10 Movies Website
 
 
+#
 # Day 65 - How to Create a Website That People Will Love
 ## Concepts Practised
 - Color Theory
@@ -594,6 +659,7 @@ Create a Python Decorator
 ## Hotel Website
 
 
+#
 # Day 66 - Building Your Own API with RESTful Routing
 ## Concepts Practised
 - HTTP Requests (GET, POST, PUT, PATCH, DELETE)
@@ -602,6 +668,7 @@ Create a Python Decorator
 ## API with RESTful Routing
 
 
+#
 # Day 67 - Blog Capstone Project Part 3 - RESTful Routing
 ## Concepts Practised
 - Use GET for Blog Post Items
@@ -611,6 +678,7 @@ Create a Python Decorator
 ## Blog Capstone Project Part 3
 
 
+#
 # Day 68 - Authentication with Flask
 ## Concepts Practised
 - Registering New Users
@@ -622,6 +690,7 @@ Create a Python Decorator
 ## Flask Authentication Website
 
 
+#
 # Day 69 - Blog Capstone Project Part 4 - Adding Users
 ## Concepts Practised
 - Registering New Users
@@ -632,6 +701,7 @@ Create a Python Decorator
 ## Blog Capstone Project Part 4
 
 
+#
 # Day 70 - Deploying Your Web Application with Heroku
 ## Concepts Practised
 - Version Control and Git
@@ -640,6 +710,7 @@ Create a Python Decorator
 - Upgrade SQLite Database to PostgreSQL
 
 
+#
 # Day 71 - Data Exploration with Pandas: College Major vs. Your Salary
 ## Concepts Practised
 - Data Cleaning with Pandas (.dropna())
@@ -649,6 +720,7 @@ Create a Python Decorator
 ## College Major vs. Salary Analysis
 
 
+#
 # Day 72 - Data Visualisation with Matplotlib: Programming Languages
 ## Concepts Practised
 - Data Cleaning: Working with Time Stamps
@@ -659,6 +731,7 @@ Create a Python Decorator
 ## Programming Language Data Analysis
 
 
+#
 # Day 73 - Aggregate & Marge Data with Pandas: Analyse the Lego Dataset
 ## Concepts Practised
 - HTML Markdown
@@ -670,6 +743,7 @@ Create a Python Decorator
 ## LEGO  Dataset Analysis
 
 
+#
 # Day 74 - Google Trends Data: Resampling and Visualising Time Series
 ## Concepts Practised
 - Data Exploration - Making Sense of Google Search Data
@@ -682,6 +756,7 @@ Create a Python Decorator
 ## Google Trends Analysis
 
 
+#
 # Day 75 - Beautiful Plotly Charts & Analysing the Android App Store
 ## Concepts Practised
 - Removing NaN Values and Duplicates
@@ -691,6 +766,7 @@ Create a Python Decorator
 ## Android App Store Analysis
 
 
+#
 # Day 76 - Computation with NumPy and N-Dimensional Arrays
 ## Concepts Practised
 - Generating and Manipulating ndarrays
@@ -698,6 +774,7 @@ Create a Python Decorator
 - Manipulating Images as ndarrays
 
 
+#
 # Day 77 - Linear Regression and Data Visualisation with Seaborn
 ## Concepts Practised
 - Filter on Multiple Conditions
@@ -708,6 +785,7 @@ Create a Python Decorator
 ## Seaborn Regression Plot
 
 
+#
 # Day 78 - Analysing the Nobel Prize with Plotly, Matplotlib & Seaborn
 ## Concepts Practised
 - Updated Packages in Google Colab & Explored and Cleaned the Dataset
@@ -718,6 +796,7 @@ Create a Python Decorator
 ## Nobel Prize Analysis
 
 
+#
 # Day 79 - The Tragic Discovery of Handwashing: t-Tests & Distributions
 ## Concepts Practised
 - Preliminary Data Explored and Visualised Births & Deaths at Vienna Hospital
@@ -726,6 +805,7 @@ Create a Python Decorator
 ## Handwashing Analysis
 
 
+#
 # Day 80 - Capstone Project - Predict House Prices
 ## Concepts Practised
 - Analysed and explored the Boston house price data
@@ -736,6 +816,7 @@ Create a Python Decorator
 ## House Prices Analysis
 
 
+#
 # Day 81 - Text to Morse Code Converter
 ## Concepts Practised
 - Dictionaries
@@ -743,6 +824,7 @@ Create a Python Decorator
 - Exception Handling
 
 
+#
 # Day 82 - Portfolio Website
 ## Concepts Practised
 - Rendering HTML Files with Flask
@@ -751,6 +833,7 @@ Create a Python Decorator
 ## Portfolio Website
 
 
+#
 # Day 83 - Tic Tac Toe
 ## Concepts Practised
 - Creating Windows and Labels with Tkinter
@@ -759,6 +842,7 @@ Create a Python Decorator
 ## Tic Tac Toe
 
 
+#
 # Day 84 - Image Watermarking Desktop App
 ## Concepts Practised
 - Creating Windows and Labels with Tkinter
@@ -769,6 +853,7 @@ Create a Python Decorator
 ## Image Watermarking Desktop App
 
 
+#
 # Day 85 - Typing Speed Test App
 ## Concepts Practised
 - Creating Windows and Labels with Tkinter
@@ -778,6 +863,7 @@ Create a Python Decorator
 ## Typing Speed Test App
 
 
+#
 # Day 86 - Breakout: The Famous Arcade Game
 ## Concepts Practised
 - Create a Paddle that responds to Key Presses
@@ -789,6 +875,7 @@ Create a Python Decorator
 ## Breakout
 
 
+#
 # Day 87 - Cafe and Wifi Website
 ## Concepts Practised
 - Creating Forms with Flask-WTF
@@ -798,6 +885,7 @@ Create a Python Decorator
 ## Coffee & Wifi Project
 
 
+#
 # Day 88 - To Do Agenda App
 ## Concepts Practised
 - Create a Web Server with Flask
@@ -812,6 +900,7 @@ Create a Python Decorator
 ## To Do Agenda App
 
 
+#
 # Day 89 - Disappearing Text Writing App
 ## Concepts Practised
 - Creating Windows and Labels with Tkinter
@@ -821,6 +910,7 @@ Create a Python Decorator
 ## Type Flow App
 
 
+#
 # Day 90 - Convert PDF to Audiobook
 ## Concepts Practised
 - Creating Windows and Labels with Tkinter
@@ -830,6 +920,7 @@ Create a Python Decorator
 ## Text to Speech
 
 
+#
 # Day 91 - Image to Color List
 ## Concepts Practised
 - Creating Windows and Labels with Tkinter
@@ -839,6 +930,7 @@ Create a Python Decorator
 ## Image to Color List
 
 
+#
 # Day 92 - Amazon Canada Web Scraper
 ## Concepts Practised
 - Finding and Selecting Particular Elements with BeautifulSoup
@@ -849,6 +941,7 @@ Create a Python Decorator
 ## Amazon Canada Web Scraper
 
 
+#
 # Day 93 - Google Dinosaur Game Bot
 ## Concepts Practised
 - Finding and Selecting Particular Pixcels and RGB with PyAutoGUI
@@ -857,6 +950,7 @@ Create a Python Decorator
 ## Google Dinosaur Game Bot
 
 
+#
 # Day 94 - Space Invaders
 ## Concepts Practised
 - Make a 2D Game With PyGame
@@ -867,6 +961,7 @@ Create a Python Decorator
 ## Space Invaders
 
 
+#
 # Day 95 - Custom API
 ## Concepts Practised
 - API Endpoints and Making API Calls
@@ -876,6 +971,7 @@ Create a Python Decorator
 ## Custom API
 
 
+#
 # Day 96 - An Online Shop
 ## Concepts Practised
 - Create a Web Server with Flask
@@ -886,6 +982,7 @@ Create a Python Decorator
 ## An Online Shop
 
 
+#
 # Day 97 - Percentage Calculator
 ## Concepts Practised
 - Mathematical Operations in Python
@@ -895,6 +992,7 @@ Create a Python Decorator
 ## Percentage Calculator
 
 
+#
 # Day 98 - Analyzing and Visualizing the Space Race
 ## Concepts Practised
 - Multi-Line Charts with Matplotib
@@ -904,6 +1002,7 @@ Create a Python Decorator
 ## Space Race Data
 
 
+#
 # Day 99 - Analyzing Deaths Involving Police in the United States
 ## Concepts Practised
 - Removing NaN Values and Duplicates
@@ -913,6 +1012,7 @@ Create a Python Decorator
 ## Deaths Involving Police in the United States
 
 
+#
 # Day 100 - Predicting Earnings using Multivariable Regression
 ## Concepts Practised
 - Filter on Multiple Conditions
